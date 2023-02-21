@@ -5,6 +5,18 @@
 🎓 l'm majoring in Information Systems at IFES.
 ****
 
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/1446507723173007364/ZWwwn_Zs_400x400.jpg"/>](https://www.vale.com/)
+
+**IT intern** \
+[**Vale**](https://www.vale.com/) \
+Languages & Technologies: `Python`, `Javascript`, `C`, `Selenium`, `Puppeteer`\
+Tasks: System Automation, Testing and Monitoring
+
+****
+
 ### Tech Stack
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div style="display:flex">
@@ -15,10 +27,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/>
 </div>
+
+****
 
 ### Contact Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vin%C3%ADcius-estevam-6a519b177/)
@@ -33,12 +48,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-je&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
+<!--
 <div align="center">
 
 ![Snake animation](https://github.com/vinicius-je/vinicius-je/blob/output/github-contribution-grid-snake.svg)
 
 <div/>
-
+-->
 <!--
 **vinicius-je/vinicius-je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
