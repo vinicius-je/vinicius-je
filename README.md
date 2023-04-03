@@ -12,25 +12,15 @@ In the overview below you will find my most recent work experience:
 
 **IT intern** \
 [**Vale**](https://www.vale.com/) \
-Languages & Technologies: `Python`, `Javascript`, `C`, `Selenium`, `Puppeteer`\
+Languages & Technologies: `Python`, `Javascript`, `C`, `Pandas`, `Selenium`, `Puppeteer`\
 Tasks: System Automation, Testing and Monitoring
 
 ****
 
 ### Tech Stack
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<div style="display:flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/>
+<div style="display:flex">  
+  HTML | CSS | Javascript | React JS | Redux | Node JS | Java | Spring Boot | Mysql | MongoDB | Python | Pandas
 </div>
 
 ****
