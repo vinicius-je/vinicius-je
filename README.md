@@ -8,7 +8,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/1446507723173007364/ZWwwn_Zs_400x400.jpg"/>](https://www.vale.com/)
+[<img align="left" height="94px" width="94px" alt="Vale Logo" src="https://yt3.googleusercontent.com/ytc/AGIKgqMc91cRQHZ6ob3BqNJNqcDNX8WP8a4-w3H5j6_C_Q=s900-c-k-c0x00ffffff-no-rj"/>](https://www.vale.com/)
 
 **IT intern** \
 [**Vale**](https://www.vale.com/) \
