@@ -20,7 +20,7 @@ Tasks: System Automation, Testing and Monitoring
 ### Tech Stack
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div style="display:flex">  
- Javascript | React JS | Redux | Node JS | Java | Spring Boot | MySQL
+ Typescript | React | Redux | Node | Java | Spring Boot | MySQL
 </div>
 
 ****
