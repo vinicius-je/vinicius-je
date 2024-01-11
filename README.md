@@ -1,12 +1,19 @@
 <h1 align="center">Hi, I'm Vinícius Estevam <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="70px"/></h1>
 
-🖥️ I'm an intern programmer at Vale.
+🖥️ I'm an intern software developer at LEDs.
 
 🎓 l'm majoring in Information Systems at IFES.
 ****
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Vale Logo" src="https://avatars.githubusercontent.com/u/5139405?v=4"/>](https://leds.serra.ifes.edu.br/)
+
+**Software Developer** \
+[**LEDs**](https://leds.serra.ifes.edu.br/) \
+Languages & Technologies: `C#`, `.NET`, `Blazor`, `Sonarqube`, `BDD`, `JIRA`\
+Tasks: Software Development
 
 [<img align="left" height="94px" width="94px" alt="Vale Logo" src="https://yt3.googleusercontent.com/ytc/AGIKgqMc91cRQHZ6ob3BqNJNqcDNX8WP8a4-w3H5j6_C_Q=s900-c-k-c0x00ffffff-no-rj"/>](https://www.vale.com/)
 
