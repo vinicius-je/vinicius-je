@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vinícius Estevam <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="70px"/></h1>
 
-🖥️ I'm an intern software developer at LEDs.
+🖥️ I'm an software developer at LEDs.
 
 🎓 l'm majoring in Information Systems at IFES.
 ****
