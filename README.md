@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinícius Estevam <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="70px"/></h1>
+<h1 align="center">Hi, I'm Vinícius Estevam</h1>
 
 🖥️ I'm an software developer at LEDs.
 
@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Developer** \
 [**LEDs**](https://leds.serra.ifes.edu.br/) \
-Languages & Technologies: `C#`, `.NET`, `Blazor`, `Sonarqube`, `BDD`, `JIRA`\
+Languages & Technologies: `C#`, `.NET`, `Blazor`, `Sonarqube`, `DDD`, `JIRA`\
 Tasks: Software Development
 
 [<img align="left" height="94px" width="94px" alt="Vale Logo" src="https://yt3.googleusercontent.com/ytc/AGIKgqMc91cRQHZ6ob3BqNJNqcDNX8WP8a4-w3H5j6_C_Q=s900-c-k-c0x00ffffff-no-rj"/>](https://www.vale.com/)
@@ -27,7 +27,7 @@ Tasks: System Automation, Testing and Monitoring
 ### Tech Stack
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div style="display:flex">  
- Typescript | React | Redux | Node | Java | Spring Boot | MySQL
+ C# | .NET | SQL Server | Java | Spring Boot | Docker | Typescript | React | Node |
 </div>
 
 ****
