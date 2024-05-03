@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Developer** \
 [**LEDs**](https://leds.serra.ifes.edu.br/) \
-Languages & Technologies: `C#`, `.NET`, `AWS`, `SQL Server`, `Docker`, `Sonarqube`, `BDD`, `JIRA`\
+Languages & Technologies: `C#`, `.NET`, `SQL Server`, `Docker`, `Sonarqube`, `BDD`, `JIRA`\
 Tasks: Software Development
 
 [<img align="left" height="94px" width="94px" alt="Vale Logo" src="https://yt3.googleusercontent.com/ytc/AGIKgqMc91cRQHZ6ob3BqNJNqcDNX8WP8a4-w3H5j6_C_Q=s900-c-k-c0x00ffffff-no-rj"/>](https://www.vale.com/)
