@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Vinícius Estevam</h1>
 
-🖥️ I'm an software developer at LEDs.
+🖥️ I'm an Software Developer at FAPES/LEDs.
 
-🎓 l'm majoring in Information Systems at IFES.
+🎓 I have a bachelor's degree in Information Systems at IFES.
 ****
 
 ### Work Experience
@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Developer** \
 [**LEDs**](https://leds.dev.br/) \
-Languages & Technologies: `C#`, `.NET`, `SQL Server`, `Docker`, `Sonarqube`, `BDD`, `JIRA`\
+Languages & Technologies: `C#`, `.NET`,  `Hangfire`, `SQL Server`, `Docker`, `Sonarqube`, `DDD`\
 Tasks: Software Development
 
 [<img align="left" height="94px" width="94px" alt="Vale Logo" src="https://yt3.googleusercontent.com/ytc/AGIKgqMc91cRQHZ6ob3BqNJNqcDNX8WP8a4-w3H5j6_C_Q=s900-c-k-c0x00ffffff-no-rj"/>](https://www.vale.com/)
@@ -27,7 +27,7 @@ Tasks: System Automation, Testing and Monitoring
 ### Tech Stack
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div style="display:flex">  
- C# | .NET | SQL Server | Java | Spring Boot | Docker | Typescript | React | Node |
+ C# | .NET | SQL Server | Java | Spring Boot | Docker | Typescript
 </div>
 
 ****
